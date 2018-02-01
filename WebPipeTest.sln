@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPipeTest.CL", "WebPipeTest.CL\WebPipeTest.CL.csproj", "{49924306-8F75-4771-99AB-EECD395EE0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPipeTest.API", "WebPipeTest.API\WebPipeTest.API.csproj", "{B0CA3D55-2AF4-4BE1-AB2A-09B31C5C6C98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49924306-8F75-4771-99AB-EECD395EE0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49924306-8F75-4771-99AB-EECD395EE0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49924306-8F75-4771-99AB-EECD395EE0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49924306-8F75-4771-99AB-EECD395EE0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CA3D55-2AF4-4BE1-AB2A-09B31C5C6C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CA3D55-2AF4-4BE1-AB2A-09B31C5C6C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CA3D55-2AF4-4BE1-AB2A-09B31C5C6C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CA3D55-2AF4-4BE1-AB2A-09B31C5C6C98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0005E1-E9C8-4800-A9E7-791B83328E08}
+	EndGlobalSection
+EndGlobal
